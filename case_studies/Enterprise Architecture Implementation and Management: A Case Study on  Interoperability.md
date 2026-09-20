@@ -3,13 +3,6 @@
 Author: Kristian Hjort-Madsen
 Published: 2006
 
-Mindmap
-```mermaid
-mindmap
-  root((case research))
-
-
-```
 
 - interoperability is not just a technical issue and that 
 - economic and political factors are just as important when implementing enterprise architecture programs in government
